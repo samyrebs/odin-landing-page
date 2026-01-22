@@ -1,3 +1,5 @@
+
+
 body{
   height: 100vh;
   margin: 0;
@@ -35,6 +37,7 @@ body{
   display:flex;
   flex-direction: column;
   padding: 60px 200px 120px 200px;
+  background-color: white;
 }
 .sTwoImg{
   border: 1px solid blue;
